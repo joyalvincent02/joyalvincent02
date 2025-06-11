@@ -1,25 +1,32 @@
-# Hi, I'm Joyal Vincent 👋
+# Hi, I'm Joyal Vincent
 
 I'm a final-year IT student at QUT with a passion for building practical, full-stack solutions.  
-I've had experience worked across React, Node, TypeScript, .NET, and SQL throughout my time at university and during an internship.
+I've worked with React, Node.js, TypeScript, .NET, and SQL throughout my university studies and during my internship at Rio Tinto.
 
 ## 🚀 Projects I'm Proud Of
 
-- **EZee Planter Boxes Website**  
-  *Full-stack eCommerce platform built with React, Node.js, and MySQL.*  
-  [View repo](https://github.com/joyalvincent02/Capstone_2024/)
+- **Waste Management System (WMS)**  
+  *Developed during my internship at Rio Tinto as part of the Digital Products team.*  
+  *The code is not publicly available but I’ve created a private deployment showcase the application’s functionality*
+  *Tech: React/TypeScript, .NET/C#, TailwindCSS, MSSQL* 
+  [View website](https://ambitious-sky-02bdeb400.1.azurestaticapps.net/)
 
-- **UFC Fight Predictor (WIP)**  
-  *Machine learning model that predicts fight outcomes using live UFC stats.*  
+- **EZee Planter Boxes Website**  
+  *A full-stack eCommerce platform built for a real client as part of my university capstone project.*  
+  *Tech: React, Node.js, Express, MySQL*  
+  [View repo](https://github.com/joyalvincent02/Capstone_2024)
+
+- **UFC Fight Predictor (Work in Progress)**  
+  *A machine learning model hopes to predict UFC fight outcomes using real-time statistics scraped from UFCStats.com.*  
   [View repo](https://github.com/joyalvincent02/ufc-predictor)
 
 ## 🛠️ Tech Stack
 
 `React` `TypeScript` `Node.js` `Express` `C# / .NET` `SQL` `MySQL` `MATLAB` `Python`  
-I enjoy working across the stack and always aim to write clean, maintainable code.
+I enjoy working across the stack and take pride in writing clean, maintainable code.
 
 ## 📫 Let's Connect
 
-Feel free to reach out—I'm always open to feedback, collaboration, or a chat about tech.
+I'm always open to feedback, collaboration, or a chat about tech.
 
 - [LinkedIn](https://www.linkedin.com/in/joyalvincent)
