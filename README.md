@@ -1,6 +1,6 @@
 # Hi, I’m Joyal Vincent 👋
 
-I’m a final-year IT student at QUT who enjoys building full-stack apps that actually do something useful! Whether that’s helping a business run smoother, automating a task, or just making a cleaner user experience. I like working on both the frontend and backend, and I'm always learning keen to learn new things 😊
+I’m a final-year IT student at QUT who enjoys building full-stack apps that actually do something useful! Whether that’s helping a business run smoother, automating a task, or just making a cleaner user experience. I like working on both the frontend and backend, and I'm always keen to learn new things 😊
 
 ---
 
