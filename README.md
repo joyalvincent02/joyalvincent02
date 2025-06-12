@@ -40,7 +40,7 @@ It also includes an employee-facing interface for stock and order management.
 
 This is a Python project I'm currently working on using UFC stats to *hopefully* predict fight outcomes. Still messing around with models and scraping logic.
 
-#### Tech Used
+#### Tech Used:
 [![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?&style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -103,6 +103,6 @@ I'm confident across the stack and getting better as I go!
 
 ## 📫 Let’s Chat
 
-I’m always keen to learn more, work on cool stuff, or just talk tech.
-
+I’m always keen to learn more, work on cool stuff, or just talk tech.  
+Feel free to reach out on LinkedIn:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joyalvincent)
