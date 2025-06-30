@@ -36,7 +36,7 @@ It also includes an employee-facing interface for stock and order management.
 
 ---
 
-### [🥊 UFC Fight Predictor (Work in Progress)](https://github.com/joyalvincent02/ufc-predictor)
+### [🥊 UFC Fight Simulator (Work in Progress)](https://github.com/joyalvincent02/ufc-fight-simulator)
 
 This is a Python project I'm currently working on using UFC stats to *hopefully* predict fight outcomes. Still messing around with models and scraping logic.
 
