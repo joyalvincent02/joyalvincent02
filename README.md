@@ -54,11 +54,12 @@ I’ve got an MVP up and running with a frontend and I’m still tweaking and im
 
 
 #### Tech Used:
-[![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?&style=flat&logo=python&logoColor=yellow)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=python&logoColor=FFD341)](https://www.python.org/)
+[![FastAPI](https://img.shields.io/badge/-%20FastAPI%20-%20%23009688?style=flat&logo=FastAPI&logoColor=white)](https://supabase.com/)
 [![NumPy](https://img.shields.io/badge/-%20NumPy%20-%20%23013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org/)
 [![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Vite](https://img.shields.io/badge/-%20Vite%20-%20%23646CFF?style=flat&logo=vite&logoColor=white)](https://vite.dev/)
+[![Vite](https://img.shields.io/badge/-%20Vite%20-%20%23ab4afe?style=flat&logo=vite&logoColor=ffce26)](https://vite.dev/)
 [![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4.svg?style=flat&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![PostgreSQL](https://img.shields.io/badge/-%20PostgreSQL%20-%20%234169E1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![SQLite](https://img.shields.io/badge/-%20SQLite%20-%20%23003B57?style=flat&logo=sqlite&logoColor=white)](https://sqlite.org/)
@@ -128,6 +129,7 @@ I'm confident across the stack and getting better as I go!
 
 ## 📫 Let’s Chat
 
-I’m always keen to learn more, work on cool stuff, or just talk tech.  
+I’m always keen to learn more, work on cool stuff, or just talk tech!
+
 Feel free to reach out on LinkedIn:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joyalvincent)
