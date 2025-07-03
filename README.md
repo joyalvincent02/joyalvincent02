@@ -7,11 +7,21 @@ I’m a final-year IT student at QUT who enjoys building full-stack apps that so
 ## 🛠 Stuff I’ve Worked On
 
 ### [🗑 Waste Management System](https://ambitious-sky-02bdeb400.1.azurestaticapps.net/)
-Developed during my internship at Rio Tinto as part of the Digital Products team.
+A comprehensive full-stack waste tracking and alert management system developed during my internship at Rio Tinto as part of the Digital Products team.
+
+The application provides real-time monitoring of waste management operations with automated alert systems, data visualization dashboards, and comprehensive reporting capabilities. Built with enterprise-grade architecture including automated database migrations, data seeding, and CORS-enabled API endpoints.
+
+*The app is hosted on Azure's free tier so it may take a bit to spin back up initially*
 
 The code isn't publicly available due to IP restrictions. However, I've made a private deployment to showcase its functionality.
 
-*The app is hosted on Azure's free tier so it may take a bit to spin back up initially*
+#### Key Features:
+- **Real-time Alert Management**: Automated monitoring system with configurable alert thresholds and notifications
+- **Waste Tracking Dashboard**: Comprehensive tracking of waste operations with data visualization
+- **Database Management**: Entity Framework integration with automated migrations and data seeding
+- **Cross-Platform API**: RESTful API with Swagger documentation and CORS support for frontend integration
+- **Azure Deployment**: Production-ready deployment with Azure Static Web Apps and SQL Database
+- **Enterprise Architecture**: Dependency injection, repository pattern, and service layer separation
 
 #### Tech Used:
 [![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)](https://react.dev/)
@@ -22,13 +32,21 @@ The code isn't publicly available due to IP restrictions. However, I've made a p
 ---
 
 ### [🪴 EZee Planter Boxes](https://capstone-2024-git-main-n11047500s-projects.vercel.app/)
-This is my capstone project for a real business – full-stack eCommerce site that lets customers browse and buy planter boxes.
+A comprehensive full-stack eCommerce platform built for a real business as part of my university capstone project, featuring customer shopping experience and employee management systems.
 
-It also includes an employee-facing interface for stock and order management.
+The platform handles everything from product browsing and secure payments to order management and custom product requests with file uploads.
 
 *The backend isn't currently hosted as the client is working on deploying the site*
 
 [Click here to see the repo](https://github.com/joyalvincent02/Capstone_2024)
+
+#### Key Features:
+- **Secure Authentication**: User registration/login with JWT tokens and reCAPTCHA verification
+- **Payment Processing**: Integrated Stripe payment system with order confirmation emails
+- **File Upload System**: Custom product request forms with image upload capabilities
+- **Admin Dashboard**: Employee interface for inventory, order, and user management
+- **Email Integration**: Automated order confirmations and contact form handling
+- **Responsive Design**: Mobile-first approach with modern UI components
 
 #### Tech Used:  
 [![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)](https://react.dev/)
@@ -42,15 +60,24 @@ It also includes an employee-facing interface for stock and order management.
 
 ---
 
-### [🥊 UFC Fight Simulator (Work in Progress)](https://lemon-coast-0fe789600.2.azurestaticapps.net/)
+### [🥊 MMA Math](https://lemon-coast-0fe789600.2.azurestaticapps.net/)
 
-This is a Python project I’ve been playing around with to *potentially* predict UFC fight outcomes using stats.
+A full-stack UFC fight prediction platform that simulates fight outcomes using real fighter statistics and custom probability algorithms.
 
-I’ve got an MVP up and running with a frontend and I’m still tweaking and improving the model.
+The app scrapes live fighter data from UFCStats.com, processes it through a custom simulation engine, and provides interactive predictions for upcoming UFC events. Users can simulate entire fight cards or create custom matchups between any fighters in the database.
 
 *The app is hosted on Azure's free tier so it may take a bit to spin back up initially*
 
 [Click here to see the repo](https://github.com/joyalvincent02/ufc-fight-simulator)
+
+#### Key Features:
+- **Live Data Integration**: Automatically scrapes and updates fighter statistics from official UFC sources
+- **Probability Engine**: Custom algorithm calculates exchange probabilities and fight outcomes
+- **Image Scraping**: Dynamically fetches fighter photos for enhanced user experience  
+- **Full Event Simulation**: Simulates entire UFC fight cards with comprehensive results
+- **Custom Matchups**: Create hypothetical fights between any fighters in the database
+- **Production Deployment**: Complete CI/CD pipeline with automated testing and deployment
+
 
 
 #### Tech Used:
