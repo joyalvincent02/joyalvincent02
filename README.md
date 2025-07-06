@@ -6,6 +6,41 @@ I’m a final-year IT student at QUT who enjoys building full-stack apps that so
 
 ## 🛠 Stuff I’ve Worked On
 
+### [🥊 MMA Math](https://lemon-coast-0fe789600.2.azurestaticapps.net/)
+
+A comprehensive UFC fight prediction platform that combines machine learning, ensemble modeling, and custom simulation algorithms to predict fight outcomes using real-time fighter statistics and performance data.
+
+The application automatically scrapes fighter data from UFCStats.com, processes it through multiple prediction models (ML, Ensemble and Simulation engines) and provides interactive predictions for upcoming UFC events. Features a fully responsive interface with dark/light mode support and real-time prediction tracking.
+
+The platform provides both casual fans and analysts with detailed insights into fight predictions, combining statistical analysis with machine learning to deliver accurate and engaging UFC content.
+
+*The app is hosted on Azure's free tier so it may take a moment to spin up initially*
+
+[Click here to see the repo](https://github.com/joyalvincent02/ufc-fight-simulator)
+
+#### Key Features:
+- **Multi-Model Predictions**: ML model, Ensemble approach, and custom simulation engine for comprehensive fight analysis
+- **Real-Time Data Pipeline**: Automated scheduler system scrapes and updates fighter statistics from official UFC sources
+- **Performance Tracking**: Track prediction accuracy across all models with detailed analytics and results comparison
+- **Interactive Fight Cards**: Simulate entire UFC events with comprehensive results and probability breakdowns
+- **Custom Matchups**: Create hypothetical fights between any fighters in the database with detailed statistical analysis
+- **Responsive Design**: Mobile-optimized interface with dark/light theme support and intuitive navigation
+- **Production Ready**: Complete CI/CD pipeline with automated testing, deployment and monitoring systems
+
+#### Tech Used:
+[![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=python&logoColor=FFD341)](https://www.python.org/)
+[![FastAPI](https://img.shields.io/badge/-%20FastAPI%20-%20%23009688?style=flat&logo=FastAPI&logoColor=white)](https://supabase.com/)
+[![NumPy](https://img.shields.io/badge/-%20NumPy%20-%20%23013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org/)
+[![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)](https://react.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Vite](https://img.shields.io/badge/-%20Vite%20-%20%23ab4afe?style=flat&logo=vite&logoColor=ffce26)](https://vite.dev/)
+[![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4.svg?style=flat&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![PostgreSQL](https://img.shields.io/badge/-%20PostgreSQL%20-%20%234169E1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![SQLite](https://img.shields.io/badge/-%20SQLite%20-%20%23003B57?style=flat&logo=sqlite&logoColor=white)](https://sqlite.org/)
+[![Supabase](https://img.shields.io/badge/-%20Supabase%20-%20%231c1c1c?style=flat&logo=supabase&logoColor=#3FCF8E)](https://supabase.com/)
+
+---
+
 ### [🗑 Waste Management System](https://ambitious-sky-02bdeb400.1.azurestaticapps.net/)
 A comprehensive full-stack waste tracking and alert management system developed during my internship at Rio Tinto as part of the Digital Products team.
 
@@ -21,7 +56,7 @@ The code isn't publicly available due to IP restrictions. However, I've made a p
 - **Database Management**: Entity Framework integration with automated migrations and data seeding
 - **Cross-Platform API**: RESTful API with Swagger documentation and CORS support for frontend integration
 - **Azure Deployment**: Production-ready deployment with Azure Static Web Apps and SQL Database
-- **Enterprise Architecture**: Dependency injection, repository pattern, and service layer separation
+- **Enterprise Architecture**: Dependency injection, repository pattern and service layer separation
 
 #### Tech Used:
 [![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)](https://react.dev/)
@@ -57,40 +92,6 @@ The platform handles everything from product browsing and secure payments to ord
 [![Vercel](https://img.shields.io/badge/-%20Vercel%20-%20%23000000?style=flat&logo=vercel&logoColor=white)](https://vercel.com/)
 [![Render](https://img.shields.io/badge/-%20Render%20-%20%23000000?style=flat&logo=render&logoColor=white)](https://render.com/)
 [![DigitalOcean](https://img.shields.io/badge/-%20DigitalOcean%20-%20%230080FF?style=flat&logo=digitalocean&logoColor=white)](https://www.digitalocean.com/)
-
----
-
-### [🥊 MMA Math](https://lemon-coast-0fe789600.2.azurestaticapps.net/)
-
-A full-stack UFC fight prediction platform that simulates fight outcomes using real fighter statistics and custom probability algorithms.
-
-The app scrapes live fighter data from UFCStats.com, processes it through a custom simulation engine, and provides interactive predictions for upcoming UFC events. Users can simulate entire fight cards or create custom matchups between any fighters in the database.
-
-*The app is hosted on Azure's free tier so it may take a bit to spin back up initially*
-
-[Click here to see the repo](https://github.com/joyalvincent02/ufc-fight-simulator)
-
-#### Key Features:
-- **Live Data Integration**: Automatically scrapes and updates fighter statistics from official UFC sources
-- **Probability Engine**: Custom algorithm calculates exchange probabilities and fight outcomes
-- **Image Scraping**: Dynamically fetches fighter photos for enhanced user experience  
-- **Full Event Simulation**: Simulates entire UFC fight cards with comprehensive results
-- **Custom Matchups**: Create hypothetical fights between any fighters in the database
-- **Production Deployment**: Complete CI/CD pipeline with automated testing and deployment
-
-
-
-#### Tech Used:
-[![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=python&logoColor=FFD341)](https://www.python.org/)
-[![FastAPI](https://img.shields.io/badge/-%20FastAPI%20-%20%23009688?style=flat&logo=FastAPI&logoColor=white)](https://supabase.com/)
-[![NumPy](https://img.shields.io/badge/-%20NumPy%20-%20%23013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org/)
-[![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)](https://react.dev/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Vite](https://img.shields.io/badge/-%20Vite%20-%20%23ab4afe?style=flat&logo=vite&logoColor=ffce26)](https://vite.dev/)
-[![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4.svg?style=flat&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
-[![PostgreSQL](https://img.shields.io/badge/-%20PostgreSQL%20-%20%234169E1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![SQLite](https://img.shields.io/badge/-%20SQLite%20-%20%23003B57?style=flat&logo=sqlite&logoColor=white)](https://sqlite.org/)
-[![Supabase](https://img.shields.io/badge/-%20Supabase%20-%20%231c1c1c?style=flat&logo=supabase&logoColor=#3FCF8E)](https://supabase.com/)
 
 ---
 
