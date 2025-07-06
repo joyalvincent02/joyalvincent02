@@ -1,20 +1,19 @@
 # Hi, I’m Joyal Vincent 👋
 
-I’m a final-year IT student at QUT who enjoys building full-stack apps that solve real problems! Whether that’s helping a business run smoother, automating a task, or just making a cleaner user experience. I like working on both the frontend and backend and I'm always keen to learn new things 😊
+I’m a final-year IT student at QUT who enjoys building full-stack apps that solve real problems! Whether that’s helping a business run smoother, automating a task, or just making a cleaner user experience. I like working across the stack and I'm always keen to learn new things 😊
 
 ---
 
 ## 🛠 Stuff I’ve Worked On
 
 ### [🥊 MMA Math](https://lemon-coast-0fe789600.2.azurestaticapps.net/)
+*The app is hosted on Azure's free tier so it may take a moment to spin up initially*
 
-A comprehensive UFC fight prediction platform that combines machine learning, ensemble modeling, and custom simulation algorithms to predict fight outcomes using real-time fighter statistics and performance data.
+A comprehensive UFC fight prediction platform that combines machine learning, ensemble modeling and custom simulation algorithms to predict fight outcomes using real-time fighter statistics and performance data.
 
 The application automatically scrapes fighter data from UFCStats.com, processes it through multiple prediction models (ML, Ensemble and Simulation engines) and provides interactive predictions for upcoming UFC events. Features a fully responsive interface with dark/light mode support and real-time prediction tracking.
 
 The platform provides both casual fans and analysts with detailed insights into fight predictions, combining statistical analysis with machine learning to deliver accurate and engaging UFC content.
-
-*The app is hosted on Azure's free tier so it may take a moment to spin up initially*
 
 [Click here to see the repo](https://github.com/joyalvincent02/ufc-fight-simulator)
 
@@ -41,18 +40,18 @@ The platform provides both casual fans and analysts with detailed insights into 
 
 ---
 
-### [🗑 Waste Management System](https://ambitious-sky-02bdeb400.1.azurestaticapps.net/)
+### [🗑 Waste Management System (WMS)](https://ambitious-sky-02bdeb400.1.azurestaticapps.net/)
+*The app is hosted on Azure's free tier so it may take a bit to spin back up initially*
+
 A comprehensive full-stack waste tracking and alert management system developed during my internship at Rio Tinto as part of the Digital Products team.
 
-The application provides real-time monitoring of waste management operations with automated alert systems, data visualization dashboards, and comprehensive reporting capabilities. Built with enterprise-grade architecture including automated database migrations, data seeding, and CORS-enabled API endpoints.
-
-*The app is hosted on Azure's free tier so it may take a bit to spin back up initially*
+The application provides real-time monitoring of waste management operations with automated alert systems, data visualization dashboards, and comprehensive reporting capabilities. Built with enterprise-grade architecture including automated database migrations, data seeding and CORS-enabled API endpoints.
 
 The code isn't publicly available due to IP restrictions. However, I've made a private deployment to showcase its functionality.
 
 #### Key Features:
 - **Real-time Alert Management**: Automated monitoring system with configurable alert thresholds and notifications
-- **Waste Tracking Dashboard**: Comprehensive tracking of waste operations with data visualization
+- **Waste Tracking Dashboard**: Comprehensive tracking of waste operations with data visualisation
 - **Database Management**: Entity Framework integration with automated migrations and data seeding
 - **Cross-Platform API**: RESTful API with Swagger documentation and CORS support for frontend integration
 - **Azure Deployment**: Production-ready deployment with Azure Static Web Apps and SQL Database
@@ -62,16 +61,17 @@ The code isn't publicly available due to IP restrictions. However, I've made a p
 [![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![.NET](https://img.shields.io/badge/.NET-%23512BD4.svg?style=flat&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/en-us/)
+[![Swagger](https://img.shields.io/badge/-%20Swagger%20-%20%2385EA2D?style=flat&logo=swagger&logoColor=black)](https://swagger.io/)
 [![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4.svg?style=flat&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 
 ---
 
 ### [🪴 EZee Planter Boxes](https://capstone-2024-git-main-n11047500s-projects.vercel.app/)
+*The backend isn't currently hosted as the client is working on deploying the site*
+
 A comprehensive full-stack eCommerce platform built for a real business as part of my university capstone project, featuring customer shopping experience and employee management systems.
 
 The platform handles everything from product browsing and secure payments to order management and custom product requests with file uploads.
-
-*The backend isn't currently hosted as the client is working on deploying the site*
 
 [Click here to see the repo](https://github.com/joyalvincent02/Capstone_2024)
 
@@ -101,55 +101,55 @@ I'm confident across the stack and getting better as I go!
 <div align="center">
 
 ### Developer Tools
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" height="48rem"/>](https://code.visualstudio.com/)&nbsp;
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="Git" height="48rem"/>](https://git-scm.com/)&nbsp;
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="48rem"/>](https://github.com/)&nbsp;
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="48"/>](https://code.visualstudio.com/)&nbsp;
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="Git" width="48"/>](https://git-scm.com/)&nbsp;
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="48"/>](https://github.com/)&nbsp;
 
 ### Frontend Development
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="48rem"/>](https://react.dev/)&nbsp;
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" height="48rem"/>](https://www.typescriptlang.org/)&nbsp;
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="48rem"/>](https://www.javascript.com/)&nbsp;
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" height="48rem"/>](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)&nbsp;
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="Vite" height="48rem"/>](https://vite.dev/)&nbsp;
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48"/>](https://react.dev/)&nbsp;
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48"/>](https://www.typescriptlang.org/)&nbsp;
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48"/>](https://www.javascript.com/)&nbsp;
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48"/>](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)&nbsp;
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="Vite" width="48"/>](https://vite.dev/)&nbsp;
 
 ### Backend Development
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="48rem"/>](https://nodejs.org/en)&nbsp;
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" height="48rem"/>](https://expressjs.com/)&nbsp;
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" height="48rem"/>](https://dotnet.microsoft.com/en-us/languages/csharp)&nbsp;
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" height="48rem"/>](https://dotnet.microsoft.com/en-us/)&nbsp;
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="48rem"/>](https://www.python.org/)&nbsp;
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="48"/>](https://nodejs.org/en)&nbsp;
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="48"/>](https://expressjs.com/)&nbsp;
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="48"/>](https://dotnet.microsoft.com/en-us/languages/csharp)&nbsp;
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="48"/>](https://dotnet.microsoft.com/en-us/)&nbsp;
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48"/>](https://www.python.org/)&nbsp;
 
 ### Cloud & DevOps
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" height="48rem"/>](https://azure.microsoft.com/)&nbsp;
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuredevops/azuredevops-original.svg" alt="Azure DevOps" height="48rem"/>](https://azure.microsoft.com/en-us/products/devops)&nbsp;
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" height="48rem"/>](https://github.com/features/actions)&nbsp;
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original-wordmark.svg" alt="Vercel" height="48rem"/>](https://vercel.com/)&nbsp;
-[<img src="https://res.cloudinary.com/dakwlrcqr/image/upload/v1749659467/render_eqhvg5.svg" alt="Render" height="48rem"/>](https://render.com/)&nbsp;
-[<img src="https://res.cloudinary.com/dakwlrcqr/image/upload/v1749659702/digitalocean_dut1pn.svg" alt="DigitalOcean" height="48rem"/>](https://www.digitalocean.com/)&nbsp;
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="48"/>](https://azure.microsoft.com/)&nbsp;
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuredevops/azuredevops-original.svg" alt="Azure DevOps" width="48"/>](https://azure.microsoft.com/en-us/products/devops)&nbsp;
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="48"/>](https://github.com/features/actions)&nbsp;
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original-wordmark.svg" alt="Vercel" width="48"/>](https://vercel.com/)&nbsp;
+[<img src="https://res.cloudinary.com/dakwlrcqr/image/upload/v1749659467/render_eqhvg5.svg" alt="Render" width="48"/>](https://render.com/)&nbsp;
+[<img src="https://res.cloudinary.com/dakwlrcqr/image/upload/v1749659702/digitalocean_dut1pn.svg" alt="DigitalOcean" width="48"/>](https://www.digitalocean.com/)&nbsp;
 
 ### Databases
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="48rem"/>](https://www.mysql.com/)&nbsp;
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" alt="Microsoft SQL Server" height="48rem"/>](https://www.microsoft.com/en-au/sql-server/sql-server-2022)&nbsp;
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg" alt="PostgreSQL" height="48rem"/>](https://www.postgresql.org/)&nbsp;
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" height="48rem"/>](https://sqlite.org/)&nbsp;
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="Supabase" height="48rem"/>](https://supabase.com/)&nbsp;
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="Azure SQL Database" height="48rem"/>](https://azure.microsoft.com/en-au/products/azure-sql/database/)&nbsp;
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="48"/>](https://www.mysql.com/)&nbsp;
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" alt="Microsoft SQL Server" width="48"/>](https://www.microsoft.com/en-au/sql-server/sql-server-2022)&nbsp;
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg" alt="PostgreSQL" width="48"/>](https://www.postgresql.org/)&nbsp;
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="48"/>](https://sqlite.org/)&nbsp;
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="Supabase" width="48"/>](https://supabase.com/)&nbsp;
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="Azure SQL Database" width="48"/>](https://azure.microsoft.com/en-au/products/azure-sql/database/)&nbsp;
 
 ### UI Frameworks & Design
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" height="48rem"/>](https://tailwindcss.com/)&nbsp;
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material UI" height="48rem"/>](https://mui.com/)&nbsp;
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" height="48rem"/>](https://www.figma.com/)&nbsp;
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="Adobe Photoshop" height="48rem"/>](https://www.adobe.com/au/products/photoshop.html)&nbsp;
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="48"/>](https://tailwindcss.com/)&nbsp;
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material UI" width="48"/>](https://mui.com/)&nbsp;
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="48"/>](https://www.figma.com/)&nbsp;
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="Adobe Photoshop" width="48"/>](https://www.adobe.com/au/products/photoshop.html)&nbsp;
 
 ### Testing & QA
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="Jest" height="48rem"/>](https://jestjs.io/)&nbsp;
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" alt="Playwright" height="48rem"/>](https://playwright.dev/)&nbsp;
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypressio/cypressio-original.svg" alt="Cypress" height="48rem"/>](https://www.cypress.io/)&nbsp;
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="Jest" width="48"/>](https://jestjs.io/)&nbsp;
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" alt="Playwright" width="48"/>](https://playwright.dev/)&nbsp;
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypressio/cypressio-original.svg" alt="Cypress" width="48"/>](https://www.cypress.io/)&nbsp;
 
 ### Computing and Data Analysis
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" height="48rem"/>](https://au.mathworks.com/products/matlab.html)&nbsp;
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" height="48rem"/>](https://www.r-project.org/)&nbsp;
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" height="48rem"/>](https://numpy.org/)&nbsp;
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="48"/>](https://au.mathworks.com/products/matlab.html)&nbsp;
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="48"/>](https://www.r-project.org/)&nbsp;
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="48"/>](https://numpy.org/)&nbsp;
 
 </div>
     
